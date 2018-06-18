@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">list</string>
+    <string-array name="cosmetics">
+        <item>ebay</item>
+        <item>amazon</item>
+        <item>paytm</item>
+        <item>snapdeal</item>
+        <item>homeshop18</item>
+        <item>flipkart</item>
+        <item>healthkart</item>
+        <item>shopclues</item>
+    </string-array>
+</resources>
